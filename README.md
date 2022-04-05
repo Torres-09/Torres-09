@@ -2,18 +2,23 @@
 
 <!--
 **Torres-09/Torres-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  
+  <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+  
+  ### 🏃‍♂️ Hwan2da 🏃‍♂️ 
+  
+  ---
+  
+  <a href="https://github.com/Torres-09"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTorres-09&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+ 
+  <a href="https://velog.io/@Hwan2da"><img src="https://img.shields.io/badge/Hwan2da.log-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+
+  <br>
+ 
+</div>
+
 ![Torres's github stats](https://github-readme-stats.vercel.app/api?username=Torres-09&show_icons=true&theme=github_dark)
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Velog</title><path d="M3 0C1.338 0 0 1.338 0 3v18c0 1.662 1.338 3 3 3h18c1.662 0 3-1.338 3-3V3c0-1.662-1.338-3-3-3H3Zm6.883 6.25c.63 0 1.005.3 1.125.9l1.463 8.303c.465-.615.846-1.133 1.146-1.553.465-.66.893-1.418 1.283-2.273.405-.855.608-1.62.608-2.295 0-.405-.113-.727-.338-.967-.21-.255-.608-.577-1.193-.967.6-.765 1.35-1.148 2.25-1.148.48 0 .878.143 1.193.428.33.285.494.704.494 1.26 0 .93-.39 2.093-1.17 3.488-.765 1.38-2.241 3.457-4.431 6.232l-2.227.156-1.711-9.628h-2.25V7.24c.6-.195 1.305-.406 2.115-.63.81-.24 1.358-.36 1.643-.36Z"/></svg>
