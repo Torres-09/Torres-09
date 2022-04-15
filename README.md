@@ -21,8 +21,5 @@
   <br>
  
   </div>
-
----
-![Torres's github stats](https://github-readme-stats.vercel.app/api?username=Torres-09&show_icons=true&theme=github_dark)
   
 
