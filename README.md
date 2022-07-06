@@ -16,8 +16,9 @@
   <a href="https://solved.ac/dla280"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dla280"/></a>
  
   <a href="https://velog.io/@hwan2da"><img src="https://img.shields.io/badge/hwan2da.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <!--
   <a href="https://cooing-guardian-ca4.notion.site/Lim-SeHwan-b39e907f77a84d30b244583a727be803"><img src="https://img.shields.io/badge/hwan2da-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-
+--> 
   <br>
  
   </div>
