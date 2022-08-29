@@ -17,7 +17,7 @@
  
   <a href="https://velog.io/@hwan2da"><img src="https://img.shields.io/badge/hwan2da.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <!--
-  <a href="https://cooing-guardian-ca4.notion.site/Lim-SeHwan-b39e907f77a84d30b244583a727be803"><img src="https://img.shields.io/badge/hwan2da-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-09)](https://github.com/Torres-09/github-readme-stats)
 --> 
   <br>
  
