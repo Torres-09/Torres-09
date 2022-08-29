@@ -1,5 +1,5 @@
 <div align="center">
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-09)](https://github.com/Torres-09/github-readme-stats)
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-09&theme=dracula&layout=compact&langs_count=10"/>
 </a>
 
   ### 🏃‍♂️ hwan2da 🏃‍♂️ 
