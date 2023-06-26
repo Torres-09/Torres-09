@@ -34,7 +34,7 @@
 
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [3D 모델링 리소스 중계 플랫폼, MakeAnything](https://github.com/MakeAnythingTeam/MakeAnything-Back-end) | 2rd MakeUs UMC |       Java, Spring        | 참여  | 2022 |
+| [3D 모델링 리소스 중계 플랫폼, MakeAnything](https://github.com/MakeAnythingTeam/MakeAnything-Back-end) | 2nd MakeUs UMC |       Java, Spring        | 참여  | 2022 |
 |       [화재 현장 인명 구조 애플리케이션, EagleEye](https://github.com/Torres-09/EagleEyeDataServer)       |    인하대학교 컴퓨터공학 종합설계    |      Java, Spring, Python, OpenCV, Fast API  |    | 2022 |
 |  [나만의 행복 보관함, Bonheur](https://github.com/umc-bonheur/bonheur-server)  |           3rd MakeUs UMC           |       Java, Spring       | 최우수상  | 2023 |
 |             [제주돌 지킴이, 맹구르미](https://github.com/9oormthon-5th-mang9rme/mang9rme_server)              |     kakao x goorm 구름톤 5th      |          Java, Spring          | 참여  | 2023 |
