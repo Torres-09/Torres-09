@@ -45,6 +45,7 @@
 
 - 2nd MakeUs UMC Server Part
 - 3rd MakeUs UMC Server Part Leader in Inha University
+- SSAFY, 삼성 청년 SW 아카데미 10기
 - Team Leader & Back-end Developer : 3D 모델링 리소스 중계 플랫폼, MakeAnything
 - Back-end Developer : 화재 현장 인명 구조 애플리케이션, EagleEye
 - Back-end Developer : 나만의 행복 보관함, Bonheur
