@@ -1,5 +1,6 @@
 ## Profile
-### 인프라에 진심인 백엔드 개발자, 임세환입니다.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTorres-09&count_bg=%2379C83D&title_bg=%23555555&icon=spring.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 백엔드 개발자, 임세환입니다.
 <br><br>
 ## :snail: Languages
 
@@ -56,8 +57,6 @@
 
 <!-- github stats -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres-09&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-09&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dla280)](https://solved.ac/dla280)
 <br>
