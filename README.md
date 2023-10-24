@@ -9,12 +9,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-FF7800?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/fast api-009688?style=for-the-badge&logo=FastAPI%20Boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
 <p>
@@ -46,7 +44,7 @@
 
 - 2nd MakeUs UMC Server Part
 - 3rd MakeUs UMC Server Part Leader in Inha University
-- SSAFY, 삼성 청년 SW 아카데미 10기
+- SSAFY 삼성 청년 SW 아카데미 10기
 - Team Leader & Back-end Developer : 3D 모델링 리소스 중계 플랫폼, MakeAnything
 - Back-end Developer : 화재 현장 인명 구조 애플리케이션, EagleEye
 - Back-end Developer : 나만의 행복 보관함, Bonheur
