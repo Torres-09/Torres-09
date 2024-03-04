@@ -37,6 +37,7 @@
 |       [화재 현장 인명 구조 애플리케이션, EagleEye](https://github.com/Torres-09/EagleEyeDataServer)       |    인하대학교 컴퓨터공학 종합설계    |      Java, Spring, Python, OpenCV, Fast API  |    | 2022 |
 |  [나만의 행복 보관함, Bonheur](https://github.com/Torres-09/bonheur-server-hwan)  |           3rd MakeUs UMC           |       Java, Spring       | 최우수상  | 2023 |
 |             [제주돌 지킴이, 맹구르미](https://github.com/9oormthon-5th-mang9rme/mang9rme_server)              |     카카오 x 구름 구름톤 5th      |          Java, Spring          | 참여  | 2023 |
+|             [온라인 인디언포커, 칩칩포커](https://github.com/chipchippoker/chipchippoker-backend)              |     SSAFY 10th      |          Java, Spring          | 우수상  | 2024 |
 
 <br><br>
 
